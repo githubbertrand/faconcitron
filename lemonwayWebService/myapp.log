@@ -1,0 +1,10 @@
+2018-10-24 11:16:10,556 [14] INFO loggerForMyApplication - FibonacciValue called with "10" and return "55".
+2018-10-24 11:16:10,556 [14] INFO loggerForMyApplication - FibonacciValue called with "10" and return "55".
+2018-10-24 11:18:02,429 [10] INFO loggerForMyApplication - FibonacciValue called with "10" and return "55".
+2018-10-24 11:18:02,429 [10] INFO loggerForMyApplication - FibonacciValue called with "10" and return "55".
+2018-10-24 11:20:25,027 [10] INFO loggerForMyApplication - FibonacciValue called with "10" and return "55".
+2018-10-24 11:20:40,313 [9] INFO loggerForMyApplication - FibonacciValue called with "10" and return "55".
+2018-10-24 14:25:28,276 [7] INFO loggerForMyApplication - FibonacciValue called with "10" and return "55".
+2018-10-24 14:25:41,298 [7] INFO loggerForMyApplication - FibonacciValue called with "10" and return "55".
+2018-10-24 14:26:24,101 [7] INFO loggerForMyApplication - FibonacciValue called with "<foo>bar</foo>" and return "{"foo":"bar"}".
+2018-10-24 14:26:33,823 [8] INFO loggerForMyApplication - FibonacciValue called with "10" and return "55".
